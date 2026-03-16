@@ -1,5 +1,7 @@
 # FormulateBRD — The Agentic Business Analyst
 
+## live link: https://formulatebrd-production.up.railway.app/
+
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react)](https://reactjs.org/)
 [![Gemini](https://img.shields.io/badge/AI-Gemini_Flash-4285F4?style=flat&logo=google-gemini)](https://deepmind.google/technologies/gemini/)
